@@ -2,13 +2,6 @@
 
 I'm a full stack developer and Computer Science student at the University of Havana. Passionate about technology and a follower of artificial intelligence development, I specialize in database systems design and have experience with the following technologies:
 
-## 🌐 Connect with Me
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/frankperez24)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/frank-p%C3%A9rez-fleita-480153212)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://frankperezfleita.vercel.app)
-- [![WhatsApp](https://img.shields.io/badge/-Phone-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/+5353103058)
-
-
 ## 🛠️ Technologies & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
@@ -67,4 +60,9 @@ I'm a full stack developer and Computer Science student at the University of Hav
   - Integration with real-time data APIs.
   - Group and task management automation.
 
-  
+## 🌐 Connect with Me
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/frankperez24)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/frank-p%C3%A9rez-fleita-480153212)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://frankperezfleita.vercel.app)
+- [![WhatsApp](https://img.shields.io/badge/-Phone-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/+5353103058)
+
