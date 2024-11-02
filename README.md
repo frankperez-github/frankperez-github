@@ -9,9 +9,13 @@ I'm a full stack developer and Computer Science student at the University of Hav
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+
 
 ## 💼 Work Experience
-
 - **CTO at [DiazCombatSoftware](https://diazcombatsoftware.com)**
   - I lead software development focused on high-performance applications and innovative technological solutions.
 
@@ -27,8 +31,7 @@ I'm a full stack developer and Computer Science student at the University of Hav
 - **Junior Backend Developer at [Guajiritos](https://www.guajiritos.com/home)**
   - Currently working as a junior backend developer, developing and optimizing backend services for applications and company projects.
 
-## 🚀 Featured Projects
-
+## 🚀 Academic Projects
 ### [card-game_GODOT](https://github.com/frankperez-github/card-game_GODOT)
 - **Description**: A card game designed and developed using the Godot engine. It features complex card mechanics like deck management and special effects, along with AI for opponents.
 - **Key Features**:
