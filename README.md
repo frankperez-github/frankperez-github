@@ -47,6 +47,6 @@ Soy desarrollador full stack y estudiante de Ciencias de la Computación en la U
   - Integración con APIs para datos en tiempo real.
 
 ## 🌐 Conéctate conmigo
-- [Instagram](https://www.instagram.com/tu_usuario)
-- [LinkedIn](https://www.linkedin.com/in/tu_usuario)
-- [Portafolio](https://tu_portafolio.com)
+- [Instagram](https://www.instagram.com/frankperez24)
+- [LinkedIn](https://www.linkedin.com/in/frank-p%C3%A9rez-fleita-480153212)
+- [Portafolio](https://frankperezfleita.vercel.app)
