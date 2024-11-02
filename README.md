@@ -1,8 +1,8 @@
-# Hola, soy Frank Pérez Fleita
+# Hi, I'm Frank Pérez Fleita
 
-Soy desarrollador full stack y estudiante de Ciencias de la Computación en la Universidad de La Habana. Apasionado por la tecnología y seguidor del desarrollo de la inteligencia artificial. Me especializo en el diseño de sistemas de bases de datos y tengo experiencia con las siguientes tecnologías:
+I'm a full stack developer and Computer Science student at the University of Havana. Passionate about technology and a follower of artificial intelligence development, I specialize in database systems design and have experience with the following technologies:
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
@@ -10,43 +10,54 @@ Soy desarrollador full stack y estudiante de Ciencias de la Computación en la U
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
-## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub de Frank](https://github-readme-stats.vercel.app/api?username=frankperez-github&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=frankperez-github&layout=compact&theme=radical)
+## 💼 Work Experience
 
-## 🔥 Racha de Contribuciones
-![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=frankperez-github&theme=radical)
+- **CTO at [DiazCombatSoftware](https://diazcombatsoftware.com)**
+  - I lead software development focused on high-performance applications and innovative technological solutions.
 
+- **CTO at [Criollos.Tech](https://criollos.tech)**
+  - I manage tech projects, oversee product development, and optimize technology strategies for company growth.
 
-## 🚀 Proyectos Destacados
+- **Senior Developer at [Citmatel](https://www.citmatel.cu/)**
+  - Senior frontend developer working on projects for Cuban institutions. Currently, I'm implementing a database management system as part of my thesis project.
+
+- **Junior Frontend Developer at [Avangenio](https://www.linkedin.com/company/grupo-avangenio/)**
+  - I contributed to the creation of web applications with dynamic and responsive user interfaces, ensuring an optimal user experience.
+
+- **Junior Backend Developer at [Guajiritos](https://www.guajiritos.com/home)**
+  - Currently working as a junior backend developer, developing and optimizing backend services for applications and company projects.
+
+## 🚀 Featured Projects
 
 ### [card-game_GODOT](https://github.com/frankperez-github/card-game_GODOT)
-- **Descripción**: Un juego de cartas diseñado y desarrollado con el motor Godot. Implementa mecánicas complejas de juego de cartas, como gestión de mazos y efectos especiales, junto con inteligencia artificial para oponentes.
-- **Características Principales**:
-  - Mecánicas de juego personalizables.
-  - Interfaz de usuario intuitiva.
-  - Inteligencia artificial básica para oponentes automatizados.
+- **Description**: A card game designed and developed using the Godot engine. It features complex card mechanics like deck management and special effects, along with AI for opponents.
+- **Key Features**:
+  - Customizable game mechanics.
+  - Intuitive user interface.
+  - Basic AI for automated opponents.
 
 ### [AI-Simulation](https://github.com/frankperez-github/AI-Simulation)
-- **Descripción**: Proyecto académico enfocado en la simulación y modelado de agentes de inteligencia artificial. Utiliza técnicas como aprendizaje por refuerzo y optimización en un entorno simulado.
-- **Características Principales**:
-  - Aprendizaje por refuerzo.
-  - Simulación de entornos complejos.
-  - Análisis del comportamiento de agentes inteligentes.
+- **Description**: An academic project focused on the simulation and modeling of AI agents. It utilizes techniques such as reinforcement learning and optimization in a simulated environment.
+- **Key Features**:
+  - Reinforcement learning.
+  - Complex environment simulation.
+  - Analysis of intelligent agents' behavior.
 
 ### [HULK-Compiler](https://github.com/frankperez-github/HULK-Compiler)
-- **Descripción**: Compilador desarrollado para un lenguaje específico llamado HULK. Incluye análisis léxico, sintáctico, semántico, generación de código intermedio y optimización.
-- **Características Principales**:
-  - Análisis léxico eficiente.
-  - Generación de código intermedio optimizado.
+- **Description**: A compiler developed for a specific language called HULK. It includes lexical analysis, syntax analysis, semantic analysis, intermediate code generation, and optimization.
+- **Key Features**:
+  - Efficient lexical analysis.
+  - Optimized intermediate code generation.
+  - Support for control structures and custom data types.
 
 ### [telegram_bots](https://github.com/frankperez-github/telegram_bots)
-- **Descripción**: Desarrollo de bots para Telegram en Python, que automatizan respuestas, gestionan tareas y se integran con APIs externas.
-- **Características Principales**:
-  - Automatización de respuestas.
-  - Integración con APIs para datos en tiempo real.
+- **Description**: Development of bots for Telegram using Python, automating responses, managing tasks, and integrating with external APIs.
+- **Key Features**:
+  - Automated responses.
+  - Integration with real-time data APIs.
+  - Group and task management automation.
 
-## 🌐 Conéctate conmigo
+## 🌐 Connect with Me
 - [Instagram](https://www.instagram.com/frankperez24)
 - [LinkedIn](https://www.linkedin.com/in/frank-p%C3%A9rez-fleita-480153212)
-- [Portafolio](https://frankperezfleita.vercel.app)
+- [Portfolio](https://frankperezfleita.vercel.app)
