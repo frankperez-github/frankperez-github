@@ -61,8 +61,8 @@ I'm a full stack developer and Computer Science student at the University of Hav
   - Group and task management automation.
 
 ## 🌐 Connect with Me
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/frankperez24)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/frank-p%C3%A9rez-fleita-480153212)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://frankperezfleita.vercel.app)
-- [![WhatsApp](https://img.shields.io/badge/-Phone-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/+5353103058)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frankperez24)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-p%C3%A9rez-fleita-480153212)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://frankperezfleita.vercel.app)
+- [![WhatsApp](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5353103058)
 
