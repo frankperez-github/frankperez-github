@@ -17,8 +17,34 @@ Soy desarrollador full stack y estudiante de Ciencias de la Computación en la U
 ## 🔥 Racha de Contribuciones
 ![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=frankperez-github&theme=radical)
 
-## 📈 Gráfico de Actividad
-![Gráfico de Actividad de GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=frankperez-github&theme=rogue)
+
+## 🚀 Proyectos Destacados
+
+### [card-game_GODOT](https://github.com/frankperez-github/card-game_GODOT)
+- **Descripción**: Un juego de cartas diseñado y desarrollado con el motor Godot. Implementa mecánicas complejas de juego de cartas, como gestión de mazos y efectos especiales, junto con inteligencia artificial para oponentes.
+- **Características Principales**:
+  - Mecánicas de juego personalizables.
+  - Interfaz de usuario intuitiva.
+  - Inteligencia artificial básica para oponentes automatizados.
+
+### [AI-Simulation](https://github.com/frankperez-github/AI-Simulation)
+- **Descripción**: Proyecto académico enfocado en la simulación y modelado de agentes de inteligencia artificial. Utiliza técnicas como aprendizaje por refuerzo y optimización en un entorno simulado.
+- **Características Principales**:
+  - Aprendizaje por refuerzo.
+  - Simulación de entornos complejos.
+  - Análisis del comportamiento de agentes inteligentes.
+
+### [HULK-Compiler](https://github.com/frankperez-github/HULK-Compiler)
+- **Descripción**: Compilador desarrollado para un lenguaje específico llamado HULK. Incluye análisis léxico, sintáctico, semántico, generación de código intermedio y optimización.
+- **Características Principales**:
+  - Análisis léxico eficiente.
+  - Generación de código intermedio optimizado.
+
+### [telegram_bots](https://github.com/frankperez-github/telegram_bots)
+- **Descripción**: Desarrollo de bots para Telegram en Python, que automatizan respuestas, gestionan tareas y se integran con APIs externas.
+- **Características Principales**:
+  - Automatización de respuestas.
+  - Integración con APIs para datos en tiempo real.
 
 ## 🌐 Conéctate conmigo
 - [Instagram](https://www.instagram.com/tu_usuario)
