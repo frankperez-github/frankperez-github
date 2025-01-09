@@ -23,7 +23,7 @@ I'm a full stack developer and Computer Science student at the University of Hav
   - I manage tech projects, oversee product development, and optimize technology strategies for company growth.
 
 - **Senior Developer at [Citmatel](https://www.citmatel.cu/)**
-  - Senior frontend developer working on projects for Cuban institutions. Currently, I'm implementing a database management system as part of my thesis project.
+  - Senior frontend developer working on projects for cuban institutions.
 
 - **Junior Frontend Developer at [Avangenio](https://www.linkedin.com/company/grupo-avangenio/)**
   - I contributed to the creation of web applications with dynamic and responsive user interfaces, ensuring an optimal user experience.
