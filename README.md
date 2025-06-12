@@ -29,7 +29,10 @@ I'm a full stack developer and Computer Science student at the University of Hav
   - I contributed to the creation of web applications with dynamic and responsive user interfaces, ensuring an optimal user experience.
 
 - **Junior Backend Developer at [Guajiritos](https://www.guajiritos.com/home)**
-  - Currently working as a junior backend developer, developing and optimizing backend services for applications and company projects.
+  - I worked as a junior backend developer, developing and optimizing backend services for applications and company projects.
+ 
+- **Backend developer at [Fyself](https://fyself.com)**
+  - I have been working at Fyself since March 2025, I met a lot of good devs that make me improve my programming and team work abilities
 
 ## 🚀 Academic Projects
 ### [card-game_GODOT](https://github.com/frankperez-github/card-game_GODOT)
